@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/endless-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Endless Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-romance/) |
+| **Get License** | [Get a Licensing Quote for Endless Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when you look my way
+> You bring the colors to a shade of gray
+> Let’s lose the map and let the midnight stay
+> We're falling deeper than the words can say
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
